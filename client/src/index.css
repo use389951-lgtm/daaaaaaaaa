@@ -1886,8 +1886,6 @@
     background-size: 150px 150px;
     animation: float 12s ease-in-out infinite;
   }
-  }
-}
 }
 
 @layer utilities {
